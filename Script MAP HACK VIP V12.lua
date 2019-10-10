@@ -1,12 +1,12 @@
 gg.alert([[
-PLEASE SUBSCRIBE CHANNEL YOUTUBE MOBILE HACKER UNTUK UPDATE SETIAP HARI SCRIPT MOBILE LEGENDS]], "DONE")
+PLEASE SUBSCRIBE CHANNEL YOUTUBE BENNY ZILVERS UNTUK UPDATE SCRIPT MOBILE LEGENDS]], "DONE")
 
 Date = "20191013"
 date = os.date("%Y%m%d")
 if date >= Date then
   print([[== SCRIPT EXPIRED ==
   
-DOWNLOAD SCRIPT NEW VERSION (TERBARU) TO CHANNEL => MOBILE HACKER]])
+DOWNLOAD SCRIPT NEW VERSION (TERBARU) TO CHANNEL => BENNY ZILVERS]])
   return
   end
 
@@ -47,29 +47,29 @@ gg.toast("SUBSCRIBE TO CHANNE")
 gg.sleep(100)
 gg.toast("SUBSCRIBE TO CHANNEL")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL M")
+gg.toast("SUBSCRIBE TO CHANNEL B")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MO")
+gg.toast("SUBSCRIBE TO CHANNEL BE")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MOB")
+gg.toast("SUBSCRIBE TO CHANNEL BEN")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MOBI")
+gg.toast("SUBSCRIBE TO CHANNEL BENN")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MOBIL ")
+gg.toast("SUBSCRIBE TO CHANNEL BENNY ")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MOBILE")
+gg.toast("SUBSCRIBE TO CHANNEL BENNY Z")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MOBILE H")
+gg.toast("SUBSCRIBE TO CHANNEL BENNY ZI")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MOBILE HA")
+gg.toast("SUBSCRIBE TO CHANNEL BENNY ZIL")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MOBILE HACK")
+gg.toast("SUBSCRIBE TO CHANNEL BENNY ZILV")
 gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL MOBILE HACKER")
+gg.toast("SUBSCRIBE TO CHANNEL BENNY ZILVERS")
 gg.sleep(100)
 gg.alert("Setting GG, Hide Gameguardian From The Game: Centang 2/3/4, Freeze interval: 0, saved list Updates interval: 1000, limit of the history: 100.000")
-gg.alert(os.date("SCRIPT VIP MOBILE LEGEND V12 PATCH 1.4.14"))
-gg.alert(os.date("SUBSCRIBE TO CHANNEL Mobile Hacker"))
+gg.alert(os.date("SCRIPT XX MOBILE LEGEND VERSION 1.4.14"))
+gg.alert(os.date("SUBSCRIBE TO CHANNEL Benny Zilvers"))
 
 function HOME()
 Z = gg.multiChoice({
@@ -87,7 +87,7 @@ Z = gg.multiChoice({
 "DEMAGE UP 10% [ LOBY ]",
 "LIFESTEAL UP 10% [ LOBY ]",
 '{🔚Exit'},
-  nil, '🆕 SCRIPT VIP V12 BY MOBILE HACKER 💞')
+  nil, '🆕 SCRIPT XX BY BENNY ZILVERS')
 if Z == nil then
 
 
@@ -352,14 +352,14 @@ end
 function Exit()
   gg.skipRestoreState()
   gg.setVisible(true)
-  print(os.date("%A, %d %B %Y | \n¨X¨T¨j¨[¨X¨j¨[¨X¨T¨j¨T¨j¨j¨j¨j¨[¨X¨T¨[\n¨U¨^¨g¨U¨U¨U¨^¨g¨^¨g¨X¨g¨X¨g¨U¨^¨g¨T¨g\n¨d¨[¨U¨^¨a¨U¨U¨d¨[¨U¨^¨g¨U¨U¨U¨U¨U¨T¨g\n¨^¨T¨m¨T¨T¨m¨T¨m¨T¨m¨T¨m¨a¨^¨m¨T¨m¨T¨a\n👉CHANNEL MOBILE HACKER👈"))
+  print(os.date("%A, %d %B %Y | \n¨X¨T¨j¨[¨X¨j¨[¨X¨T¨j¨T¨j¨j¨j¨j¨[¨X¨T¨[\n¨U¨^¨g¨U¨U¨U¨^¨g¨^¨g¨X¨g¨X¨g¨U¨^¨g¨T¨g\n¨d¨[¨U¨^¨a¨U¨U¨d¨[¨U¨^¨g¨U¨U¨U¨U¨U¨T¨g\n¨^¨T¨m¨T¨T¨m¨T¨m¨T¨m¨T¨m¨a¨^¨m¨T¨m¨T¨a\n👉CHANNEL Benny Zilvers👈"))
   os.exit()
 end
 function d()
   gg.clearList(f)
   gg.skipRestoreState()
   gg.setVisible(true)
-  print(os.date("SUBSCRIBE\n👉Channel Mobile Hacker👈"))
+  print(os.date("SUBSCRIBE\n👉Channel Benny Zilvers👈"))
   os.exit()
 end
 
